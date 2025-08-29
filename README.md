@@ -31,7 +31,7 @@
 ---
 
 ### 📌 My C++ Projects
-🔹 [Snake Game بـ C++ + Raylib](#)  
+🔹 [Snake Game بـ C++ + Raylib](#)   
 🔹 [Bank System (OOP)](#)  
 🔹 [Math Solver Console App](#)  
 
@@ -40,18 +40,9 @@
 <div align="center">
 <a href="https://github.com/YOUR_USERNAME">
 
-<img src="https://raw.githubusercontent.com/oppw4/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/oppw4/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/oppw4/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+![oppw4's GitHub stats](https://github-readme-stats.vercel.app/api?username=oppw4&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oppw4&layout=compact&theme=tokyonight)
 
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/oppw4/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
   
 <hr>
 
