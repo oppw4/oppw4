@@ -42,7 +42,8 @@
 
 ![oppw4's GitHub stats](https://github-readme-stats.vercel.app/api?username=oppw4&show_icons=true&theme=tokyonight&v=1)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oppw4&theme=tokyonight&hide_border=true&v=1)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oppw4&layout=compact&theme=tokyonight&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oppw4&layout=compact&theme=tokyonight&langs_count=8&hide=html,css)
+
 
 </a>
 
