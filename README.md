@@ -9,8 +9,8 @@
 🎧 حالياً بتعلم برمجة **C++**  
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=oppw4&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foppw4&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
 </div>
 
@@ -38,13 +38,14 @@
 ---
 
 <div align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/oppw4">
 
-![oppw4's GitHub stats](https://github-readme-stats.vercel.app/api?username=oppw4&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=oppw4&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![oppw4's GitHub stats](https://github-readme-stats.vercel.app/api?username=oppw4&show_icons=true&theme=tokyonight)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=oppw4&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oppw4&layout=compact&theme=tokyonight)
 
-  
+</a>
+
 <hr>
 
 **Code Cycle**<br>
